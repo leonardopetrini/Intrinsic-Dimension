@@ -16,3 +16,6 @@ ID_fit.py use standard python libraries and packages like:
 - numpy
 - scipy
 - scikit-learn (see installation tips at http://scikit-learn.org/stable/install.html) 
+
+
+### L. Petrini: working on Python 3 update, still not fully functioning
